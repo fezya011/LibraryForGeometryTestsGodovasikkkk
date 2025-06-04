@@ -12,5 +12,6 @@
         }
 
         public override string ToString() => $"({X}, {Y})";
+      
     }
 }
